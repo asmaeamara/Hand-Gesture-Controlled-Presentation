@@ -1,0 +1,2 @@
+# Hand-Gesture-Controlled-Presentation
+Hand gesture recognition is a challenging task that has attracted a great deal of scientific interest in recent years, mainly because of its application in human-computer interaction (HCI). Unlike mouse- or keyboard-centric user interfaces, gesture-based interfaces provide users with interactions that reflect their experience of life away from screens. These interfaces recognize and interpret human body movements. Interactions can feel more natural and generally do not require additional devices.
